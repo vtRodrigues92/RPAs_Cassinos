@@ -1,0 +1,1 @@
+wss://wac.paconassa.com/ws/multiplayer/meskbet/LUVASG/Aviatorpro/?session_token=f121peg1opbfq9at00j26l1gk9v48mi5&socket_params=%7B%22currency%22%3A%22BRL%22%2C%22token%22%3A%2230983f7e-5f0a-4b03-ac0e-6f5a00a961e7%22%2C%22apiVersion%22%3A%221.1.0%22%7D

@@ -1,0 +1,21 @@
+BOT DADOS ROLETA EVOLUTION
+
+login: Pedro.cletoooo@gmail.com
+senha: pedro123
+nome da tabela: results_lobby_evolution
+
+############################################
+
+BOT DADOS ROLETA PRAGMATIC
+
+login: pedro.cletoooo@hotmail.com
+senha: pedro123
+nome da tabela: results_lobby_pragmatic
+
+############################################
+
+BOT DADOS FUTEBOL VIRTUAL
+
+login: ''
+senha: ''
+nome da tabela: results_virtual_futebol

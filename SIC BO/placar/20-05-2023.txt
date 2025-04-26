@@ -1,0 +1,7 @@
+win,19
+sg,10
+g1,6
+g2,3
+anytriple,2
+loss,3
+ass,86

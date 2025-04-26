@@ -1,0 +1,809 @@
+1671834400822	geckodriver	INFO	Listening on 127.0.0.1:58310
+1671834403912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileaYvPyy"
+1671834404822	Marionette	INFO	Marionette enabled
+1671834404828	Marionette	INFO	Listening on port 58324
+Read port: 58324
+1671834405312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileaYvPyy\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b36/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+1671834812241	geckodriver	INFO	Listening on 127.0.0.1:58463
+1671834815317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiledUHUmw"
+1671834815731	Marionette	INFO	Marionette enabled
+1671834815736	Marionette	INFO	Listening on port 58475
+Read port: 58475
+1671834816090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiledUHUmw\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b36/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/lib/pixi-legacy.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b35/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/lib/pixi-legacy.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b35/JetX/Content/Scripts/lib/pixi.js line 3660 > srcScript, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/lib/pixi-spine.js, line 8156: Error: The spineData param is required.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+1671884455234	geckodriver	INFO	Listening on 127.0.0.1:60557
+1671884458310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilekoOsb4"
+1671884458813	Marionette	INFO	Marionette enabled
+1671884458820	Marionette	INFO	Listening on port 60570
+Read port: 60570
+1671884459510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilekoOsb4\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b36/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+1671884503119	Marionette	INFO	Stopped listening on port 60570
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1671884531383	geckodriver	INFO	Listening on 127.0.0.1:60653
+1671884534461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilem4SM0p"
+1671884534874	Marionette	INFO	Marionette enabled
+1671884534879	Marionette	INFO	Listening on port 60665
+Read port: 60665
+1671884535204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilem4SM0p\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+1671884569708	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+1671884573401	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671884609290	geckodriver	INFO	Listening on 127.0.0.1:60733
+1671884612377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilekbAjsn"
+1671884612821	Marionette	INFO	Marionette enabled
+1671884612827	Marionette	INFO	Listening on port 60745
+Read port: 60745
+1671884613247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilekbAjsn\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/lib/pixi-legacy.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b35/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/lib/pixi-legacy.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b35/JetX/Content/Scripts/lib/pixi.js line 3660 > srcScript, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/lib/pixi-spine.js, line 8156: Error: The spineData param is required.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/lib/pixi-legacy.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b35/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/lib/pixi-legacy.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b35/JetX/Content/Scripts/lib/pixi.js line 3660 > srcScript, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/lib/pixi-spine.js, line 8156: Error: The spineData param is required.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+1671884884759	geckodriver	INFO	Listening on 127.0.0.1:60926
+1671884887845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileWYsxs2"
+1671884888549	Marionette	INFO	Marionette enabled
+1671884888555	Marionette	INFO	Listening on port 60938
+Read port: 60938
+1671884889037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileWYsxs2\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+1671884902641	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/lib/pixi-legacy.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b35/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/lib/pixi-legacy.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b35/JetX/Content/Scripts/lib/pixi.js line 3660 > srcScript, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+JavaScript error: https://eu-static.ssgcontent.com/cache/b13/GameLauncher/Content/Scripts/integration.js, line 73: TypeError: gameEvent is null
+1676582968028	geckodriver	INFO	Listening on 127.0.0.1:52786
+1676582971037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileM9ZUrD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676582972118	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676582972126	Marionette	INFO	Listening on port 52799
+Read port: 52799
+1676582973125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileM9ZUrD\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://mesk.bet/_nuxt/300d259.js, line 1: Error: Request failed with status code 401
+1676583013309	Marionette	INFO	Stopped listening on port 52799
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1676758537094	geckodriver	INFO	Listening on 127.0.0.1:65476
+1676758540128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJ4hFUa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676758542296	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676758542322	Marionette	INFO	Listening on port 65489
+Read port: 65489
+Read port: 65489
+1676758543641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJ4hFUa\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request failed with status code 401
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.error: "Unable to find target with innerWindowId:6442450964"
+console.error: "Unable to find target with innerWindowId:6442450964"
+console.error: "Unable to find target with innerWindowId:6442450964"
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.error: "stylesheets: fetch failed for https://mesk.bet/_nuxt/css/f088bb9.css, using system principal instead."
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request aborted
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request aborted
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request aborted
+JavaScript error: https://mesk.bet/_nuxt/a5a9c49.js, line 1: TypeError: m.response is undefined
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request aborted
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request aborted
+JavaScript error: https://mesk.bet/_nuxt/a5a9c49.js, line 1: TypeError: m.response is undefined
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request aborted
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request aborted
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request aborted
+JavaScript error: https://cdn.livechatinc.com/tracking.js, line 1: Error: JSONP request failed.
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450971/pagestyle32, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonReflowInSelection@resource://devtools/client/inspector/inspector.js:1618:10\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:872:24\nthrottledFunction@resource://devtools/shared/throttle.js:45:21\n_onResourceAvailable@resource://devtools/shared/commands/resource/resource-command.js:717:12\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonPacket@resource://devtools/shared/protocol/Front.js:349:13\nonPacket@resource://devtools/client/devtools-client.js:488:13\nsend/<@resource://devtools/shared/transport/local-transport.js:67:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450971/pagestyle32, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonReflowInSelection@resource://devtools/client/inspector/inspector.js:1618:10\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:872:24\nlater@resource://devtools/shared/throttle.js:33:19\nnotify@resource://gre/modules/Timer.sys.mjs:49:17\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450971/pagestyle32, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonReflowInSelection@resource://devtools/client/inspector/inspector.js:1618:10\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:872:24\nthrottledFunction@resource://devtools/shared/throttle.js:45:21\n_onResourceAvailable@resource://devtools/shared/commands/resource/resource-command.js:717:12\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonPacket@resource://devtools/shared/protocol/Front.js:349:13\nonPacket@resource://devtools/client/devtools-client.js:488:13\nsend/<@resource://devtools/shared/transport/local-transport.js:67:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450971/pagestyle32, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:6442450971"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal21474836481/layout27, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b2/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+1676758830837	geckodriver	INFO	Listening on 127.0.0.1:49312
+1676758833879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileY3Qwkc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676758835407	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676758835422	Marionette	INFO	Listening on port 49324
+Read port: 49324
+Read port: 49324
+1676758836889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileY3Qwkc\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request failed with status code 401
+1676758928182	Marionette	INFO	Stopped listening on port 49324
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1676907286809	geckodriver	INFO	Listening on 127.0.0.1:50414
+1676907289859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileceEwh6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676907291073	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676907291080	Marionette	INFO	Listening on port 50428
+Read port: 50428
+1676907291782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileceEwh6\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+[Child 14320, MediaDecoderStateMachine #1] WARNING: 2b4afad7bd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request failed with status code 401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request failed with status code 401
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request failed with status code 401
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request failed with status code 401
+JavaScript error: https://mesk.bet/_nuxt/6fca53e.js, line 1: Error: Request failed with status code 401
+1676907472342	geckodriver	INFO	Listening on 127.0.0.1:50529
+1676907475393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileqcJgnU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676907475978	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676907475982	Marionette	INFO	Listening on port 50540
+Read port: 50540
+1676907476447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileqcJgnU\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+1676908720952	geckodriver	INFO	Listening on 127.0.0.1:50833
+1676908724004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileNuj98j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676908724911	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676908724916	Marionette	INFO	Listening on port 50844
+Read port: 50844
+1676908725470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileNuj98j\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js line 3660 > srcScript, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/JetX.js line 3660 > srcScript, line 397: ReferenceError: position is not defined
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/JetX.js, line 397: ReferenceError: position is not defined
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/JetX.js, line 397: ReferenceError: position is not defined
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript error: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/JetX.js, line 397: ReferenceError: position is not defined
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+1676910256076	geckodriver	INFO	Listening on 127.0.0.1:51226
+1676910259139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile4LH7w9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676910259897	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676910259904	Marionette	INFO	Listening on port 51237
+Read port: 51237
+1676910260451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile4LH7w9\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+1678839948713	geckodriver	INFO	Listening on 127.0.0.1:52372
+1678839951811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileaxVCaK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678839953189	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678839953200	Marionette	INFO	Listening on port 52383
+Read port: 52383
+1678839954119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileaxVCaK\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+1678840032490	geckodriver	INFO	Listening on 127.0.0.1:52465
+1678840035551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileiP187a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678840036502	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678840036511	Marionette	INFO	Listening on port 52476
+Read port: 52476
+1678840037129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileiP187a\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+1678840112670	geckodriver	INFO	Listening on 127.0.0.1:52585
+1678840115711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileeX2LTj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678840116337	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678840116342	Marionette	INFO	Listening on port 52597
+Read port: 52597
+1678840116809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileeX2LTj\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+1678840239235	geckodriver	INFO	Listening on 127.0.0.1:52718
+1678840242305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile97YruM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678840243093	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678840243099	Marionette	INFO	Listening on port 52729
+Read port: 52729
+1678840243532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile97YruM\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+1678840307678	geckodriver	INFO	Listening on 127.0.0.1:52822
+1678840310729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiledHZh6X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678840311508	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678840311516	Marionette	INFO	Listening on port 52833
+Read port: 52833
+1678840312052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiledHZh6X\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678840580714	geckodriver	INFO	Listening on 127.0.0.1:52993
+1678840583772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilehal8uT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678840584398	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678840584403	Marionette	INFO	Listening on port 53004
+Read port: 53004
+1678840584784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilehal8uT\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+[Parent 17844, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.
+JavaScript warning: https://eu-static.ssgcontent.com/cache/b1/JetX/Content/Scripts/lib/pixi.js, line 5926: WebGL context was lost.

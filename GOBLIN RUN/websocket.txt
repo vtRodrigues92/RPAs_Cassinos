@@ -1,0 +1,1 @@
+wss://socketgames-kube.evoplay.games/listener-goblinrun/849/55/websocket

@@ -1,0 +1,25 @@
+import requests
+import json
+
+url_dados = 'https://gs.fugaso.com/magnify-admin/player/events?sessionId=49da9fc384f6892993b295d3f0c1d&mode=external&operatorId=353350&userName=106836090&gameName=magnifyman'
+
+def get_json_in_str(str_to_json: str):
+
+    str_to_json = str_to_json[str_to_json.index('{"current":'):str_to_json.index('"stop":true}')+12]
+
+    try:
+        return json.loads(str_to_json)
+    except:
+        return False
+
+response = requests.get(url_dados, stream=True)
+
+for chunk in response.iter_content(chunk_size=50000):
+    dados_api = chunk.decode('UTF-8')
+
+    if '"stop":true}' in dados_api:
+        print(get_json_in_str(dados_api)['current'])
+
+
+
+

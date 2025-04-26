@@ -1,0 +1,8 @@
+⚠️ <b>Possível Entrada</b> ⚠️
+
+🎰 <b>Roleta:</b> [NOME_CASSINO]
+🎲 <b>Estratégia:</b> [ESTRATEGIA]
+
+🧩 [LISTA_RESULTADOS]
+
+Acesse a <a href='https://games.playpix.com/LaunchGame'>Roleta</a> 🎰

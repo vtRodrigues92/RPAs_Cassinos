@@ -1,0 +1,13 @@
+💰 <b>ENTRADA CONFIRMADA</b> 💰
+🎲 <b>Estratégia: [ESTRATEGIA]</b>
+🎰 Roleta: [NOME_CASSINO]
+
+🚥 <b>Sequência: [LISTA_RESULTADOS]</b>
+
+💰 <b>Entrar Após o número [ULTIMO_RESULTADO] apostando em [APOSTA]</b>
+🟢 <b>Cobrir o zero</b>
+🔁 <b> Fazer até 2 gales</b>
+
+<b><a href='[SITE_DESKTOP]' style="font-size: 60px"> 💻 Computador | </a> <a href='[SITE_MOBILE]' style="font-size: 60px" >📱 Celular</a></b>
+<b><a href='[SITE_CADASTRO]'>CLIQUE AQUI E CADASTRE-SE</a></b>
+

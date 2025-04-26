@@ -1,0 +1,1 @@
+wss://nesvembataross.evo-games.com/public/topdice/player/game/TopDice000000001/socket?messageFormat=json&instance=f10mb-qz26g6p3papr325t-TopDice000000001&client_version=6.20230310.70311.22612-db5e00ed82

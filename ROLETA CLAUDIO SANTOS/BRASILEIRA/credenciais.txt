@@ -1,0 +1,1 @@
+﻿[{'valor_entrada': '', 'fatorgale': '', 'stopwin': '', 'stoploss': ''}]

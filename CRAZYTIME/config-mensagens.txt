@@ -1,0 +1,40 @@
+🔎 <b>Analisando a mesa</b> 🔍
+
+🎰 <b>Roleta: Crazy Time</b>
+
+🤚 <b> Aguarde Confirmação</b> 🤚
+
+🌐 <a href='[SITE_JOGO]'>Acesso ao Jogo</a>
+
+
+
+
+
+
+
+
+##########################################
+
+
+🟢 <b>CONFIRMADA</b>
+
+🎰 <b>Roleta: Crazy Time</b>
+
+💰 <b>Apostar:</b> [APOSTA]
+
+🌐 <a href='[SITE_JOGO]'>Acesso ao Jogo</a>
+
+
+
+
+
+
+
+
+##########################################
+
+	
+
+✅✅✅<b>GREEN!!!</b> [RESULTADO]
+
+LOSS 🔻 [LISTA_RESULTADOS]

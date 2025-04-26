@@ -1,0 +1,21 @@
+****** USUÁRIO E SENHA
+
+usuario= DanielaAline22
+senha= Fordbracom22
+
+****** TOKEN BOT 
+
+token= 5590315584:AAFvdXwCsLAwbDwJbSitVcPSgzKQQYO-748 
+
+****** ID DO USUÁRIO E CANAIS TELEGRAM 
+
+id= [1476864287]
+canais= {-1001775325949:['www.cadastro.com/cadastro'],-1001710035667:['www.cadastro.com/cadastro']}
+
+
+
+
+
+***** SEMPRE COLOCAR A INFORMAÇÃO APÓS O '=' USANDO UM ESPAÇO. EX: usuario= aaaaa | senha= 123456 | token= sdunu546464664
+***** SE FOR CADASTRAR MAIS DE UM ID, SEGUIR O PADRÃO -- EX: [123456,7899876]
+***** CADASTRO DE CANAIS SEMPRE COM O PREFIXO -100 --- EX: -1001234567890

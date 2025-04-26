@@ -1,0 +1,42 @@
+!!! POSSIVEL ENTRADA
+
+!!! AGUARDANDO CONFIRMAÇÃO
+
+
+
+
+
+
+
+
+
+
+##########################################
+
+
+
+!!! ENTRADA CONFIRMADA
+
+!!! ENTRANDO APÓS [VELA_ATUAL]
+
+!!! APOSTANDO R$ [VALOR_ENTRADA]
+!!! RETIRANDO EM [CASH_OUT]
+
+
+
+
+
+
+##########################################
+	
+!!! GREEN!!! [LISTA_RESULTADOS]
+Percentual até agora: [GREEN] | [LOSS]
+Velas maiores que 2x: [MAIOR_2X]
+Assertividade: [ASSERTIVIDADE]%
+
+
+
+LOSS -- [LISTA_RESULTADOS]
+Percentual até agora: [GREEN] | [LOSS]
+Velas maiores que 2x: [MAIOR_2X]
+Assertividade: [ASSERTIVIDADE]%

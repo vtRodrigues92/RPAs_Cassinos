@@ -1,0 +1,22 @@
+****** USUÁRIO E SENHA
+
+usuario= Fordbracom22
+senha= Gabriel@20233
+
+****** TOKEN BOT 
+
+token= ""
+
+****** ID DO USUÁRIO CANAIS TELEGRAM E STICKER
+
+id= []
+canais= ''
+
+
+sticker=CAACAgEAAxkBAAEYWhJjLRmRuis-_URX7J7EyS8E9ehRvwACBQEAAmZPeUeVJPXPvaNuHCkE
+
+
+
+***** SEMPRE COLOCAR A INFORMAÇÃO APÓS O '=' USANDO UM ESPAÇO. EX: usuario= aaaaa | senha= 123456 | token= sdunu546464664
+***** SE FOR CADASTRAR MAIS DE UM ID, SEGUIR O PADRÃO -- EX: [123456,7899876]
+***** CADASTRO DE CANAIS SEMPRE COM O PREFIXO -100 --- EX: -1001234567890

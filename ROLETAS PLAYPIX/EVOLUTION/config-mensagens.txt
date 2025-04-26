@@ -1,0 +1,40 @@
+🔎 <b>Analisando a mesa</b> 🔍
+⭐️ <b>EstrelaBet - [FORNECEDOR]</b>
+
+🎰 <b>Roleta:</b> [NOME_CASSINO]
+🎲 <b>Estratégia:</b> [ESTRATEGIA]
+
+📱 <b>[TIPO_ESTRATEGIA] [ESTRATEGIA]</b>
+🚥 <b>[LISTA_RESULTADOS]</b>
+
+🔗 <b>LINKS:</b> 💻 <a href='[SITE_CASSINO]' style="font-size: 60px">Computador</a>
+📱 <a href='[SITE_CASSINO]' style="font-size: 60px" >Celular</a>
+
+
+
+##########################################
+
+
+
+💰 <b>CONFIRMADA</b>
+⭐️<b>EstrelaBet - [FORNECEDOR]</b>
+
+🎰 <b>Roleta: [NOME_CASSINO]</b>
+🎲 <b>Estratégia:</b> [ESTRATEGIA]
+💰 <b>Apostar:</b> [APOSTA]
+🚥 <b>[LISTA_RESULTADOS]</b>
+
+🟢 <b>COBRIR ZERO</b>
+
+🔗 <b>LINKS:</b> 💻 <a href='[SITE_CASSINO]' style="font-size:60px">Computador</a>
+📱 <a href='[SITE_CASSINO]' style="font-size:60px">Celular</a>
+
+
+
+##########################################
+
+	
+
+✅✅✅<b>GREEN!!!</b> [RESULTADO]
+
+LOSS 🔻 [LISTA_RESULTADOS]

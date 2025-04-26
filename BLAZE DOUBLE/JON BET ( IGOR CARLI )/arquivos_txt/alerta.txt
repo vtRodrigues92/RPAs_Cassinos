@@ -1,0 +1,7 @@
+⚠️ Atenção! POSSÍVEL ENTRADA ⚠️
+
+LINKS: 
+<a href='[SITE_PC]'> 💻 Computador</a>
+<a href='[SITE_MB]'> 📱 Celular</a>
+
+<a href='[LINK_CADASTRO]'>Clique aqui e se cadastre</a>

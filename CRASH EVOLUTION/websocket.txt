@@ -1,0 +1,1 @@
+wss://wac.paconassa.com/ws/multiplayer/meskbet/CRAE/Aviatorpro/?session_token=5cnaj1ts3g9m3oc9527z7iyajctno2hu&socket_params=%7B%22currency%22:%22BRL%22,%22token%22:%22df593f0d-cd93-440e-8e7c-758767310c90%22,%22apiVersion%22:%221.1.0%22%7D

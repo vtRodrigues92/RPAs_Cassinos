@@ -1,0 +1,92 @@
+1679369019403	geckodriver	INFO	Listening on 127.0.0.1:49253
+1679369022467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileMXeUMO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679369023694	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679369023702	Marionette	INFO	Listening on port 49265
+Read port: 49265
+1679369024527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileMXeUMO\\search.json.mozlz4", (void 0)))
+1679369029694	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://regstat.betfair.com/fp/check.js;CIS3SID=71E78D133C12789E10B44C6E23955B98?org_id=9ghwyvdk&session_id=ac8fa69a-06fb-47c3-ad91-8d29e1fb702c&nonce=ae0761ac60a0bcc8&jb=36332e246a71677535576b6c6667777124687b6f3d5f69666c6f757b25323233322668716277354469706d6667782468716a3d446b706d666f70253a38313339, line 344: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679369034741	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identitysso.betfair.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identitysso.betfair.com."
+1679369047655	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://casino-com-ngm.bfcdl.com/live/bundles/23.3.0.20/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: , line 0: uncaught exception: Object
+1679702421368	geckodriver	INFO	Listening on 127.0.0.1:63687
+1679702424425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileBri5NI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679702425571	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679702425578	Marionette	INFO	Listening on port 63699
+Read port: 63699
+1679702426591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileBri5NI\\search.json.mozlz4", (void 0)))
+1679702429736	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://regstat.betfair.com/fp/check.js;CIS3SID=EC772DE99AF4FE95C50A761917C774C4?org_id=9ghwyvdk&session_id=266143e0-89bb-4ca6-8060-5b9f5c51e381&nonce=9e94cbaccc499d5e&jb=343324266a716f75355f616c6667777126687b673d556966646d7f71253030313024627360773f466970656667702e68716a3d4469706d6e6f7a253a30333933, line 885: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679702436856	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identitysso.betfair.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identitysso.betfair.com."
+1679702446806	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://casino-com-ngm.bfcdl.com/live/bundles/23.3.0.24/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: , line 0: uncaught exception: Object
+1679702659739	geckodriver	INFO	Listening on 127.0.0.1:63914
+1679702662802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile4hL0uN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679702663424	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679702663431	Marionette	INFO	Listening on port 63925
+Read port: 63925
+1679702663959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile4hL0uN\\search.json.mozlz4", (void 0)))
+1679702666956	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://regstat.betfair.com/fp/check.js;CIS3SID=2938668552AB40F8C156C566DCF54430?org_id=9ghwyvdk&session_id=f299232d-363b-4644-98c5-00f8ecbb1bb4&nonce=56bcd1e6d73786a2&jb=34332e2e68716d7535556b6c66677771266a7b6735556966646f757b25303233302468736077354e6b706766677a2468716a3d4469726d6e677a253a30313339, line 514: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679702671854	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identitysso.betfair.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identitysso.betfair.com."
+1679702682170	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1679702683791	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://casino-com-ngm.bfcdl.com/live/bundles/23.3.0.24/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: , line 0: uncaught exception: Object
+1679702883169	geckodriver	INFO	Listening on 127.0.0.1:64111
+1679702886223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilefgFF4A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679702886880	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679702886885	Marionette	INFO	Listening on port 64122
+Read port: 64122
+1679702887320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilefgFF4A\\search.json.mozlz4", (void 0)))
+1679702889972	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://regstat.betfair.com/fp/check.js;CIS3SID=C3C9C6C6C7D58E2AB74C0D0A47024E9C?org_id=9ghwyvdk&session_id=58122b25-6af9-4828-b96d-40b01a2c08ef&nonce=772dba656cb6b9c4&jb=3639262468716d753555696c6c67777b24627b6d35556966646f757325323233302e6a71627d3d446b706766677a26687b6a3d4e6b7a6d64677a253a30313331, line 1012: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679702894655	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identitysso.betfair.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identitysso.betfair.com."
+1679702905304	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://casino-com-ngm.bfcdl.com/live/bundles/23.3.0.24/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: , line 0: uncaught exception: Object
+1679703418215	geckodriver	INFO	Listening on 127.0.0.1:64345
+1679703421254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJ07mLs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679703421868	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679703421873	Marionette	INFO	Listening on port 64356
+Read port: 64356
+1679703422369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\Dell\AppData\Local\Temp\rust_mozprofileJ07mLs\datareporting\state.json.tmp) to destination(C:\Users\Dell\AppData\Local\Temp\rust_mozprofileJ07mLs\datareporting\state.json)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJ07mLs\\search.json.mozlz4", (void 0)))
+1679703635455	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://regstat.betfair.com/fp/check.js;CIS3SID=3787091FB7D870E0E11170567EF4B26A?org_id=9ghwyvdk&session_id=0a507509-8e57-4bb8-87ee-c696e571a3c3&nonce=56214b88f75dd4d4&jb=3631262668736f7d355f696e6667777124627b673f576966666d7f71253232313024687162753d466b72656e6770266a716a3d446b7a6d6e6d78253a32333933, line 622: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679703638615	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identitysso.betfair.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://identitysso.betfair.com."
+1679703651493	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://casino-com-ngm.bfcdl.com/live/bundles/23.3.0.24/js/live.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: , line 0: uncaught exception: Object

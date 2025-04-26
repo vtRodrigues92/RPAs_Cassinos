@@ -1,0 +1,1 @@
+https://gs1.pragmaticplaylive.net/api/ui/statisticHistory?tableId=g03y1t9vvuhrfytl&numberOfGames=500&JSESSIONID=QDqpvHjHHWKxF8R0ikcGR5-0UCZD0kUEupBa76iW_u1oYqnZkrho!1683756118&ck=1677884952984&game_mode=lobby_desktop

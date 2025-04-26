@@ -1,0 +1,11 @@
+🚨 <b>ANALISANDO MESA</b> 🚨
+
+🎰 Mesa: [NOME_CASSINO]
+
+🧠 <b>ESTRATÉGIA</b>: [ESTRATEGIA]
+
+🚥 <b>Últimos Números que Saíram: [LISTA_RESULTADOS]</b>
+
+🔗 <b>LINKS:<a href='[SITE_DESKTOP]' style="font-size: 60px"> 💻 Computador</a> <a href='[SITE_MOBILE]' style="font-size: 60px" >📱 Celular</a></b>
+
+<b><a href='[SITE_CADASTRO]'>CADASTRE-SE AQUI</a></b>

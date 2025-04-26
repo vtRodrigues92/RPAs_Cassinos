@@ -1,0 +1,13 @@
+💰 <b>CONFIRMADA</b>
+⭐️ <b>Playtech</b>
+
+🎰 <b>Roleta: [NOME_CASSINO]</b>
+🎲 <b>Estratégia:</b> [ESTRATEGIA]
+💰 <b>Apostar:</b> [APOSTA]
+🚥 <b>[LISTA_RESULTADOS]</b>
+
+🟢 <b>COBRIR ZERO</b>
+
+🔗 <b>LINK:</b> 🌐 <a href='[SITE_CASSINO]' style="font-size: 60px">Computador | Celular</a>
+
+🔗 <a href='[LINK_CADASTRO]'>CADASTRE-SE AQUI</a>

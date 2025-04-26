@@ -1,0 +1,12 @@
+🔎 <b>Analisando a mesa</b> 🔍
+⭐️ <b>Playtech</b>
+
+🎰 <b>Roleta:</b> [NOME_CASSINO]
+🎲 <b>Estratégia:</b> [ESTRATEGIA]
+
+📱 <b>[TIPO_ESTRATEGIA] [ESTRATEGIA]</b>
+🚥 <b>[LISTA_RESULTADOS]</b>
+
+🔗 <b>LINK:</b> 🌐 <a href='[SITE_CASSINO]' style="font-size: 60px">Computador | Celular</a>
+
+🔗 <a href='[LINK_CADASTRO]'>CADASTRE-SE AQUI</a>

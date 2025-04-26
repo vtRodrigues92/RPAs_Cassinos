@@ -1,0 +1,22 @@
+1708558901351	geckodriver	INFO	Listening on 127.0.0.1:59718
+1708558904396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilesVeNlJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708558905486	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708558905790	Marionette	INFO	Listening on port 59731
+Read port: 59731
+1708558906217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://f12.bet."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://f12.bet."
+JavaScript error: , line 0: InvalidStateError: Navigated away from page
+1708558935597	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://eu.fw-cdn.com/11165473/412734.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-68L1LYKN09&l=dataLayer&cx=c, line 168: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-68L1LYKN09&l=dataLayer&cx=c:168:17
+bB@https://www.googletagmanager.com/gtag/js?id=G-68L1LYKN09&l=dataLayer&cx=c:496:134
+cB/<@https://www.googletagmanager.com/gtag/js?id=G-68L1LYKN09&l=dataLayer&cx=c:496:111
+
+1708558977160	Marionette	INFO	Stopped listening on port 59731
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

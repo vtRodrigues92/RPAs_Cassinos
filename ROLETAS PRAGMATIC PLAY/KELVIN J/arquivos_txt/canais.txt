@@ -1,0 +1,21 @@
+****** USUÁRIO E SENHA
+
+usuario= zegalinha
+senha= lucas170
+
+****** TOKEN BOT 
+
+token= 5590315584:AAFvdXwCsLAwbDwJbSitVcPSgzKQQYO-748 
+
+****** ID DO USUÁRIO CANAIS TELEGRAM E STICKER
+
+id= [1476864287,5004131606]
+canais= {-1001710035667:['www.cadstro.com'],-1001775325949:['https://go.aff.bullsbetaffiliate.com/m3n89bpt']}
+
+
+
+
+
+***** SEMPRE COLOCAR A INFORMAÇÃO APÓS O '=' USANDO UM ESPAÇO. EX: usuario= aaaaa | senha= 123456 | token= sdunu546464664
+***** SE FOR CADASTRAR MAIS DE UM ID, SEGUIR O PADRÃO -- EX: [123456,7899876]
+***** CADASTRO DE CANAIS SEMPRE COM O PREFIXO -100 --- EX: -1001234567890

@@ -1,0 +1,28 @@
+﻿🔎 VALIDANDO POSSÍVEL ENTRADA
+🧠 [ESTRATEGIA]
+🚥 <b> [LISTA_RESULTADOS] </b>
+
+
+
+
+##########################################
+
+
+
+⚠️<b>ENTRADA CONFIRMADA</b>⚠️
+🚥 <b>[LISTA_RESULTADOS]</b>
+💰 <b>APOSTANDO R$ [VALOR_APOSTA] NA [APOSTA] </b>
+🟢 COBRINDO NO ZERO COM 10% D0 VALOR DA APOSTA
+
+
+
+
+
+
+##########################################
+
+	
+
+✅✅✅<b>GREEN!!!</b> [RESULTADO]
+
+LOSS 🔻 [RESULTADO]

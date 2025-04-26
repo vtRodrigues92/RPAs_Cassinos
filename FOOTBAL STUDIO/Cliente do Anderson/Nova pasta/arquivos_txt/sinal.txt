@@ -1,0 +1,10 @@
+🔔 Entrada Confirmada 🔔
+<b><a href='[LINK_CADASTRO]' style="font-size: 60px">Clique aqui e se cadastre</a></b>
+👉 Entre Agora no [COR]
+⬜️ Proteção no Empate
+✔️ Faça o Martingale
+
+🔗 LINKS: 
+<a href='[SITE_PC]' style="font-size: 60px">💻 Computador</a>
+<a href='[SITE_MB]' style="font-size: 60px" >📱 Celular</a>
+

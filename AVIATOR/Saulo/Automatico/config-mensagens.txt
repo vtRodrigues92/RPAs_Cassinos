@@ -1,0 +1,40 @@
+!!! POSSIVEL ENTRADA
+
+!!! AGUARDANDO CONFIRMAÇÃO
+
+
+
+
+
+
+
+
+
+
+##########################################
+
+
+
+!!! ENTRADA CONFIRMADA
+
+!!! ENTRANDO APÓS [VELA_ATUAL]
+
+!!! APOSTANDO R$ [VALOR_ENTRADA_BET1] NA BET 1 E R$ [VALOR_ENTRADA_BET2] NA BET 2
+!!! RETIRANDO EM [CASH_OUT_BET1]
+
+
+
+
+
+
+##########################################
+	
+!!! GREEN!!! [LISTA_RESULTADOS]
+Placar até agora: [GREEN] | [LOSS]
+Assertividade: [ASSERTIVIDADE]%
+
+
+
+LOSS -- [LISTA_RESULTADOS]
+Placar até agora: [GREEN] | [LOSS]
+Assertividade: [ASSERTIVIDADE]%

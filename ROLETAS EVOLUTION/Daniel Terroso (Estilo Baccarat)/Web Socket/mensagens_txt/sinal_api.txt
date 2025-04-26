@@ -1,0 +1,12 @@
+💰 ENTRADA CONFIRMADA 💰
+
+⭐ Fornecedor: EVOLUTION
+🎰 Roleta: Immersive Roulette
+
+Sequência anterior: [LISTA_RESULTADOS]
+
+💰 Entrar após o número: [ULTIMO_RESULTADO]
+🎯 Apostar na [APOSTA]
+🟢 Cobrir o número ZERO
+
+🔁 Fazer 1 entrada e até 2 Gales

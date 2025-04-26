@@ -1,0 +1,9 @@
+🚨🚨 ANALISANDO MESA 🚨🚨
+
+🎰 Mesa: [NOME_CASSINO]
+
+🧠 ESTRATÉGIA: [ESTRATEGIA]
+
+🚥 Últimos números que saíram: [LISTA_RESULTADOS]
+
+🔗 Links: <a href='https://www.playpix.com/pb/'>💻 Computador</a> <a href='https://www.playpix.com/pb/'>📱 Celular</a> 

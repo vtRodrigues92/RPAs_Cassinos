@@ -1,0 +1,1264 @@
+1671734472451	geckodriver	INFO	Listening on 127.0.0.1:50075
+1671734475524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileET7yEl"
+1671734477223	Marionette	INFO	Marionette enabled
+1671734477242	Marionette	INFO	Listening on port 50087
+Read port: 50087
+Read port: 50087
+Read port: 50087
+Read port: 50087
+1671734481019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileET7yEl\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1671734820960	geckodriver	INFO	Listening on 127.0.0.1:50293
+1671734824042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileIQKfto"
+1671734825062	Marionette	INFO	Marionette enabled
+1671734825075	Marionette	INFO	Listening on port 50306
+Read port: 50306
+1671734825865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileIQKfto\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1671736971689	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://static.egcdn.com/frontend/everest/everest-release/js/commons.a2303999.js, line 1: Error: Transport is disposed. [CLIENT_VIDEO_V2_INFO]
+1671737016298	geckodriver	INFO	Listening on 127.0.0.1:50613
+1671737019381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile5uQNR5"
+1671737019984	Marionette	INFO	Marionette enabled
+1671737019990	Marionette	INFO	Listening on port 50625
+Read port: 50625
+1671737020441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile5uQNR5\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+1671738205781	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671738241620	geckodriver	INFO	Listening on 127.0.0.1:50883
+1671738244695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileTu5soz"
+1671738245605	Marionette	INFO	Marionette enabled
+1671738245613	Marionette	INFO	Listening on port 50895
+Read port: 50895
+1671738246394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileTu5soz\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+1671738281106	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+1671738282099	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1671739198629	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1671747735107	geckodriver	INFO	Listening on 127.0.0.1:53616
+1671747738178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileK2cdmf"
+1671747738610	Marionette	INFO	Marionette enabled
+1671747738615	Marionette	INFO	Listening on port 53629
+Read port: 53629
+1671747738971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileK2cdmf\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1671749630933	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://static.egcdn.com/frontend/everest/everest-release/js/commons.a2303999.js, line 1: Error: Transport is disposed. [CLIENT_VIDEO_V2_INFO]
+JavaScript error: https://static.egcdn.com/frontend/everest/everest-release/js/commons.a2303999.js, line 1: Error: Transport is disposed. [CLIENT_VIDEO_V2_PLAYBACK_STARTED]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript error: https://static.egcdn.com/frontend/everest/everest-release/js/commons.a2303999.js, line 1: Error: Transport is disposed. [CLIENT_VIDEO_V2_INFO]
+console.error: "Unable to find target with innerWindowId:6442450960"
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:6442450960"
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+console.error: "Unable to find target with innerWindowId:6442450960"
+console.error: "Error while calling actor 'watcher's method 'watchResources'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 101))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/client/inspector/inspector.js, line 1382: TypeError: this.panelDoc is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1671750048671	geckodriver	INFO	Listening on 127.0.0.1:54080
+1671750051761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilepZdPu0"
+1671750052181	Marionette	INFO	Marionette enabled
+1671750052186	Marionette	INFO	Listening on port 54092
+Read port: 54092
+1671750052551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilepZdPu0\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+1671750226643	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript error: https://estrelabet.com/ptb/authentication/signup?click_id=djbqvwuxiyhufdiz&affid=42874 line 1 > injectedScript, line 1: ReferenceError: srtmCommands is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: https://static.egcdn.com/frontend/everest/everest-release/js/commons.a2303999.js, line 1: Error: Transport is disposed. [CLIENT_VIDEO_V2_INFO]
+JavaScript error: https://static.egcdn.com/frontend/everest/everest-release/js/commons.a2303999.js, line 1: Error: Transport is disposed. [CLIENT_VIDEO_V2_INFO]
+[Parent 11300, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: https://static.egcdn.com/frontend/everest/everest-release/js/commons.a2303999.js, line 1: Error: Transport is disposed. [CLIENT_VIDEO_V2_INFO]
+JavaScript error: https://static.egcdn.com/frontend/everest/everest-release/js/commons.a2303999.js, line 1: Error: Transport is disposed. [CLIENT_VIDEO_V2_INFO]
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: https://static.egcdn.com/frontend/everest/everest-release/js/commons.a2303999.js, line 1: Error: Transport is disposed. [CLIENT_VIDEO_V2_INFO]
+JavaScript error: https://static.egcdn.com/frontend/everest/everest-release/js/commons.a2303999.js, line 1: Error: Transport is disposed. [CLIENT_VIDEO_V2_INFO]
+[Parent 11300, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+1671755682668	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+[Parent 11300, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+[Parent 11300, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+[Parent 11300, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1671757676213	geckodriver	INFO	Listening on 127.0.0.1:55913
+1671757679299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileFIIDZa"
+1671757679704	Marionette	INFO	Marionette enabled
+1671757679709	Marionette	INFO	Listening on port 55925
+Read port: 55925
+1671757680028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileFIIDZa\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1671759878490	geckodriver	INFO	Listening on 127.0.0.1:56435
+1671759881563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileHysH1V"
+1671759882091	Marionette	INFO	Marionette enabled
+1671759882097	Marionette	INFO	Listening on port 56448
+Read port: 56448
+1671759882540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileHysH1V\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.

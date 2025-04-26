@@ -1,0 +1,3 @@
+['ausência', '1ºduzia', '3', '2ª/3ªduzia']
+['ausência', '2ªduzia', '3', '1º/3ªduzia']
+['ausência', '3ªduzia', '3', '1º/2ªduzia']

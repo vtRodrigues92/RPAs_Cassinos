@@ -1,0 +1,23 @@
+****** TOKEN BOT 
+
+token= 5590315584:AAFvdXwCsLAwbDwJbSitVcPSgzKQQYO-748 
+
+****** ID DO USUÁRIO E CANAIS TELEGRAM 
+
+id= [1476864287,12345678]
+canais= {-1001775325949:['https://mesk.bet/casino/?cat=live&gameid=7341','https://mesk.bet/casino/?cat=live&gameid=7341','www.estrelabet.com'],-1001710035667:['https://mesk.bet/casino/?cat=live&gameid=7341','https://mesk.bet/casino/?cat=live&gameid=7341','www.facebook.com']}
+
+
+*******USUÁRIO E SENHA
+
+usuario= raimundo.yuri.carvalho@babo.adv.br
+senha= Fordbracom22
+
+
+
+
+
+
+***** SEMPRE COLOCAR A INFORMAÇÃO APÓS O '=' USANDO UM ESPAÇO. EX: token= sdunu546464664
+***** SE FOR CADASTRAR MAIS DE UM ID, SEGUIR O PADRÃO -- EX: [123456,7899876]
+***** CADASTRO DE CANAIS SEMPRE COM O PREFIXO -100 --- EX: -1001234567890

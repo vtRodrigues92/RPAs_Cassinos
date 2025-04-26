@@ -1,0 +1,6 @@
+⚠️ SESSÃO FINALIZADA! ⚠️
+
+📊 Placar da Sessão em [DATA_HOJE]:
+=====================
+✅ WIN - [PLACAR_WIN_SESSAO]
+❌ RED - [PLACAR_LOSS_SESSAO]

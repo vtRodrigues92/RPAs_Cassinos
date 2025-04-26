@@ -1,0 +1,1 @@
+{'PLAYPIX':['https://sshortly1.com/superbot','img/logo_play-removebg-preview.png'],'SEUBET':['https://sshortly.net/czYlS8','img/logo_seubet2-removebg-preview.png'],'B1.BET':['https://bit.ly/b1betsofutassessoria','img/logo_b1-removebg-preview.png']}

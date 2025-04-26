@@ -1,0 +1,4 @@
+api_id= 15861134
+api_hash= 158e599541366a97380bcc1474fc7bb2
+phone= +5521994025776
+api_bot= 5590315584:AAFvdXwCsLAwbDwJbSitVcPSgzKQQYO-748

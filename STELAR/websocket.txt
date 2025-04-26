@@ -1,0 +1,1 @@
+wss://nodeprod-03.globalgames.io:32000/connect/?token=5dfe7abb-20a0-4c3e-9f42-aaca9b8237e5

@@ -1,0 +1,7 @@
+win,5
+sg,3
+g1,2
+g2,0
+loss,2
+ass,71                                            
+win_seguido,4

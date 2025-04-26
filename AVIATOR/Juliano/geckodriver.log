@@ -1,0 +1,1179 @@
+1669845127632	geckodriver	INFO	Listening on 127.0.0.1:62371
+1669845226958	geckodriver	INFO	Listening on 127.0.0.1:62406
+1669845562521	geckodriver	INFO	Listening on 127.0.0.1:62632
+1669845565605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileaeeMCU"
+1669845566088	Marionette	INFO	Marionette enabled
+1669845566095	Marionette	INFO	Listening on port 62644
+Read port: 62644
+1669845566480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileaeeMCU\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1669845752974	Marionette	INFO	Stopped listening on port 62644
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1670072832364	geckodriver	INFO	Listening on 127.0.0.1:62846
+1670072835462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDEQAhY"
+1670072836614	Marionette	INFO	Marionette enabled
+1670072836624	Marionette	INFO	Listening on port 62860
+Read port: 62860
+1670072837304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDEQAhY\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1670073026230	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670073078600	geckodriver	INFO	Listening on 127.0.0.1:62946
+1670073081667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile18rwE7"
+1670073082161	Marionette	INFO	Marionette enabled
+1670073082168	Marionette	INFO	Listening on port 62959
+Read port: 62959
+1670073082585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile18rwE7\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+1670073158985	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670073189051	geckodriver	INFO	Listening on 127.0.0.1:63037
+1670073192106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiled6DtjV"
+1670073192625	Marionette	INFO	Marionette enabled
+1670073192632	Marionette	INFO	Listening on port 63049
+Read port: 63049
+1670073193110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiled6DtjV\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1670073248348	Marionette	INFO	Stopped listening on port 63049
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1670942017521	geckodriver	INFO	Listening on 127.0.0.1:52464
+1670942020606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilegqXGYM"
+1670942021877	Marionette	INFO	Marionette enabled
+1670942021887	Marionette	INFO	Listening on port 52476
+Read port: 52476
+1670942022673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilegqXGYM\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+1670942052218	Marionette	INFO	Stopped listening on port 52476
+[Parent 18832, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1670942126368	geckodriver	INFO	Listening on 127.0.0.1:52552
+1670942129434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileMWe6QH"
+1670942129950	Marionette	INFO	Marionette enabled
+1670942129956	Marionette	INFO	Listening on port 52564
+Read port: 52564
+1670942130347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileMWe6QH\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+1670942158872	Marionette	INFO	Stopped listening on port 52564
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1671802297975	geckodriver	INFO	Listening on 127.0.0.1:59734
+1671802301077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileNuG7OC"
+1671802301593	Marionette	INFO	Marionette enabled
+1671802301598	Marionette	INFO	Listening on port 59746
+Read port: 59746
+1671802302255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileNuG7OC\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+[Parent 15064, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+1671802552864	geckodriver	INFO	Listening on 127.0.0.1:59999
+1671802555948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileMGIb1F"
+1671802556318	Marionette	INFO	Marionette enabled
+1671802556324	Marionette	INFO	Listening on port 60013
+Read port: 60013
+1671802556611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileMGIb1F\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+1671802635454	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1671802672692	Marionette	INFO	Stopped listening on port 60013
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1671802695636	geckodriver	INFO	Listening on 127.0.0.1:60224
+1671802698704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiletWk5hO"
+1671802699114	Marionette	INFO	Marionette enabled
+1671802699120	Marionette	INFO	Listening on port 60237
+Read port: 60237
+1671802699408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiletWk5hO\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1671803295762	geckodriver	INFO	Listening on 127.0.0.1:60707
+1671803298847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileP0W0Zt"
+1671803299421	Marionette	INFO	Marionette enabled
+1671803299425	Marionette	INFO	Listening on port 60721
+Read port: 60721
+1671803299792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileP0W0Zt\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1671803408129	geckodriver	INFO	Listening on 127.0.0.1:60905
+1671803411193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilerpK8ZX"
+1671803411571	Marionette	INFO	Marionette enabled
+1671803411576	Marionette	INFO	Listening on port 60918
+Read port: 60918
+1671803411870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilerpK8ZX\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1671804998480	geckodriver	INFO	Listening on 127.0.0.1:61911
+1671805001551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDTczDM"
+1671805001944	Marionette	INFO	Marionette enabled
+1671805001949	Marionette	INFO	Listening on port 61925
+Read port: 61925
+1671805002408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDTczDM\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1671805361536	geckodriver	INFO	Listening on 127.0.0.1:62242
+1671805364618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileiUrWiN"
+1671805365017	Marionette	INFO	Marionette enabled
+1671805365022	Marionette	INFO	Listening on port 62255
+Read port: 62255
+1671805365309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileiUrWiN\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1671819823268	geckodriver	INFO	Listening on 127.0.0.1:51904
+1671819826320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile7IZCY4"
+1671819826845	Marionette	INFO	Marionette enabled
+1671819826850	Marionette	INFO	Listening on port 51917
+Read port: 51917
+1671819827174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile7IZCY4\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+1671819841953	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1671820780873	geckodriver	INFO	Listening on 127.0.0.1:52289
+1671820783951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileUCm0dH"
+1671820784386	Marionette	INFO	Marionette enabled
+1671820784390	Marionette	INFO	Listening on port 52302
+Read port: 52302
+1671820784817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileUCm0dH\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1671821602327	Marionette	INFO	Stopped listening on port 52302
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1671826438355	geckodriver	INFO	Listening on 127.0.0.1:63051
+1671826441434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileQhFwER"
+1671826441801	Marionette	INFO	Marionette enabled
+1671826441805	Marionette	INFO	Listening on port 63064
+Read port: 63064
+1671826442131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileQhFwER\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1671826760391	geckodriver	INFO	Listening on 127.0.0.1:63269
+1671826763475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileAlhiFv"
+1671826763955	Marionette	INFO	Marionette enabled
+1671826763960	Marionette	INFO	Listening on port 63281
+Read port: 63281
+1671826764311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileAlhiFv\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1671828240316	geckodriver	INFO	Listening on 127.0.0.1:57003
+1671828243383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile2AbMrc"
+1671828243903	Marionette	INFO	Marionette enabled
+1671828243908	Marionette	INFO	Listening on port 57015
+Read port: 57015
+1671828244300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile2AbMrc\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1671828557683	geckodriver	INFO	Listening on 127.0.0.1:57160
+1671828560735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileIyGdCk"
+1671828561249	Marionette	INFO	Marionette enabled
+1671828561253	Marionette	INFO	Listening on port 57172
+Read port: 57172
+1671828561676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileIyGdCk\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1672182802825	geckodriver	INFO	Listening on 127.0.0.1:58897
+1672182805873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileiHgWO6"
+1672182820364	geckodriver	INFO	Listening on 127.0.0.1:58929
+1672182823416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile8x2jcm"
+1672182823899	Marionette	INFO	Marionette enabled
+1672182823904	Marionette	INFO	Listening on port 58941
+Read port: 58941
+1672182824393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile8x2jcm\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+1672182853206	Marionette	INFO	Stopped listening on port 58941
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1672182878193	geckodriver	INFO	Listening on 127.0.0.1:59090
+1672182881292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile5Rg7AR"
+1672182881772	Marionette	INFO	Marionette enabled
+1672182881778	Marionette	INFO	Listening on port 59102
+Read port: 59102
+1672182882129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile5Rg7AR\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.adf2e5a30f3220e61e6b.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1672182919984	Marionette	INFO	Stopped listening on port 59102
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1677937860817	geckodriver	INFO	Listening on 127.0.0.1:61572
+1677937863895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileKhyXPI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677937865304	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677937865317	Marionette	INFO	Listening on port 61585
+Read port: 61585
+Read port: 61585
+1677937866800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileKhyXPI\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 6196 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.b8f60d0299912f3c.js, line 1: WebGL context was lost.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677937971278	geckodriver	INFO	Listening on 127.0.0.1:61761
+1677937974326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilenhwN9P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677937975055	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677937975064	Marionette	INFO	Listening on port 61772
+Read port: 61772
+1677937975865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilenhwN9P\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 3737 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.b8f60d0299912f3c.js, line 1: WebGL context was lost.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677938247233	geckodriver	INFO	Listening on 127.0.0.1:61984
+1677938250309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile6yyjVa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677938251031	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677938251038	Marionette	INFO	Listening on port 61995
+Read port: 61995
+1677938251785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile6yyjVa\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 657 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.b8f60d0299912f3c.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 4236 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://aviator-next.spribegaming.com/main.b8f60d0299912f3c.js, line 1: WebGL context was lost.
+1677938393911	geckodriver	INFO	Listening on 127.0.0.1:62193
+1677938396961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileLid25N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677938397688	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677938397695	Marionette	INFO	Listening on port 62204
+Read port: 62204
+1677938398349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileLid25N\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 7713 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.b8f60d0299912f3c.js, line 1: WebGL context was lost.
+1677939157763	geckodriver	INFO	Listening on 127.0.0.1:62571
+1677939160774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileVXkF36"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677939162164	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677939162175	Marionette	INFO	Listening on port 62582
+Read port: 62582
+Read port: 62582
+1677939163634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileVXkF36\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: unreachable code after return statement
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://estrelabet.com/main-es2015.5412fd0fdfe6751b9762.js, line 1: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=izu1ya, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 6590 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://estrelabet.com."
+JavaScript warning: https://aviator-next.spribegaming.com/main.b8f60d0299912f3c.js, line 1: WebGL context was lost.

@@ -1,0 +1,1 @@
+﻿[{'telegram_bot_token': 'aaaaa', 'id': '-1001657038947', 'tempo_validade': '3', 'tempo_espera': '3', 'texto_confirmcao': '⚡️🔤🔤🔤🔤🔤🔤  🔤🔤🔤🔤⚡️', 'texto_final': '❌➡️📢🐯🟢💰💰'}]

@@ -1,0 +1,301 @@
+1669845127632	geckodriver	INFO	Listening on 127.0.0.1:62371
+1669845226958	geckodriver	INFO	Listening on 127.0.0.1:62406
+1669845562521	geckodriver	INFO	Listening on 127.0.0.1:62632
+1669845565605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileaeeMCU"
+1669845566088	Marionette	INFO	Marionette enabled
+1669845566095	Marionette	INFO	Listening on port 62644
+Read port: 62644
+1669845566480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileaeeMCU\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1669845752974	Marionette	INFO	Stopped listening on port 62644
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1670072832364	geckodriver	INFO	Listening on 127.0.0.1:62846
+1670072835462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDEQAhY"
+1670072836614	Marionette	INFO	Marionette enabled
+1670072836624	Marionette	INFO	Listening on port 62860
+Read port: 62860
+1670072837304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDEQAhY\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1670073026230	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670073078600	geckodriver	INFO	Listening on 127.0.0.1:62946
+1670073081667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile18rwE7"
+1670073082161	Marionette	INFO	Marionette enabled
+1670073082168	Marionette	INFO	Listening on port 62959
+Read port: 62959
+1670073082585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile18rwE7\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+1670073158985	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670073189051	geckodriver	INFO	Listening on 127.0.0.1:63037
+1670073192106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiled6DtjV"
+1670073192625	Marionette	INFO	Marionette enabled
+1670073192632	Marionette	INFO	Listening on port 63049
+Read port: 63049
+1670073193110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiled6DtjV\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+JavaScript warning: https://aviator-next.spribegaming.com/main.8f48c0d7380044a3.js, line 1: WebGL context was lost.
+1670073248348	Marionette	INFO	Stopped listening on port 63049
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1670942017521	geckodriver	INFO	Listening on 127.0.0.1:52464
+1670942020606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilegqXGYM"
+1670942021877	Marionette	INFO	Marionette enabled
+1670942021887	Marionette	INFO	Listening on port 52476
+Read port: 52476
+1670942022673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilegqXGYM\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+1670942052218	Marionette	INFO	Stopped listening on port 52476
+[Parent 18832, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1670942126368	geckodriver	INFO	Listening on 127.0.0.1:52552
+1670942129434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileMWe6QH"
+1670942129950	Marionette	INFO	Marionette enabled
+1670942129956	Marionette	INFO	Listening on port 52564
+Read port: 52564
+1670942130347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileMWe6QH\\search.json.mozlz4", (void 0)))
+JavaScript error: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: SyntaxError: missing } after property list
+JavaScript note: https://backoffice.mesk.bet/api/settings/scripts/head, line 8: { opened at line 8, column 1624
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mesk.bet."
+1670942158872	Marionette	INFO	Stopped listening on port 52564
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1671586711741	geckodriver	INFO	Listening on 127.0.0.1:59006
+1671586714760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilebYr8zq"
+1671586715935	Marionette	INFO	Marionette enabled
+1671586715942	Marionette	INFO	Listening on port 59018
+Read port: 59018
+1671586716809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilebYr8zq\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=5569659224, line 97: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 199: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 199: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 199: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 199: TypeError: rule is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+[Parent 348, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=6543439894, line 97: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1671587175754	Marionette	INFO	Stopped listening on port 59018
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1671587194907	geckodriver	INFO	Listening on 127.0.0.1:59161
+1671587197959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilevnJTzp"
+1671587198583	Marionette	INFO	Marionette enabled
+1671587198589	Marionette	INFO	Listening on port 59174
+Read port: 59174
+1671587199223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilevnJTzp\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=1236237964, line 97: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=9403445898, line 97: unreachable code after return statement
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=7517700545, line 97: unreachable code after return statement
+1671587376316	geckodriver	INFO	Listening on 127.0.0.1:59263
+1671587379390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDlG0OY"
+1671587379937	Marionette	INFO	Marionette enabled
+1671587379943	Marionette	INFO	Listening on port 59275
+Read port: 59275
+1671587380324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDlG0OY\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=1756761600, line 97: unreachable code after return statement
+1671587392087	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1671587450560	geckodriver	INFO	Listening on 127.0.0.1:59356
+1671587453573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileRDggPa"
+1671587454104	Marionette	INFO	Marionette enabled
+1671587454109	Marionette	INFO	Listening on port 59370
+Read port: 59370
+1671587454557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileRDggPa\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=9778518887, line 97: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=2706750852, line 97: unreachable code after return statement
+1671587545281	geckodriver	INFO	Listening on 127.0.0.1:59451
+1671587548331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileSmuujG"
+1671587548902	Marionette	INFO	Marionette enabled
+1671587548907	Marionette	INFO	Listening on port 59463
+Read port: 59463
+1671587549359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileSmuujG\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=1237415864, line 97: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=4735006143, line 97: unreachable code after return statement
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418241/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418241/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal10737418241/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:91:30
+initialize@resource://devtools/client/fronts/inspector.js:80:12
+
+JavaScript error: resource://devtools/server/actors/inspector/walker.js, line 202: TypeError: targetActor is null
+1671587693469	geckodriver	INFO	Listening on 127.0.0.1:59566
+1671587696538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileUOG9Or"
+1671587697134	Marionette	INFO	Marionette enabled
+1671587697142	Marionette	INFO	Listening on port 59578
+Read port: 59578
+1671587697822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileUOG9Or\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=8932566001, line 97: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=5755287325, line 97: unreachable code after return statement
+1671742803537	geckodriver	INFO	Listening on 127.0.0.1:63539
+1671742806597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilewmZ1N5"
+1671742807305	Marionette	INFO	Marionette enabled
+1671742807311	Marionette	INFO	Listening on port 63551
+Read port: 63551
+1671742807744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilewmZ1N5\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=4888012888, line 97: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=8607124624, line 97: unreachable code after return statement
+1671742951541	geckodriver	INFO	Listening on 127.0.0.1:63636
+1671742954633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileFKkoCb"
+1671742955128	Marionette	INFO	Marionette enabled
+1671742955134	Marionette	INFO	Listening on port 63648
+Read port: 63648
+1671742955520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileFKkoCb\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=4965885778, line 97: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=7888809771, line 97: unreachable code after return statement
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=8263041627, line 97: unreachable code after return statement
+1671743414507	geckodriver	INFO	Listening on 127.0.0.1:63773
+1671743417641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilesUivn1"
+1671743418170	Marionette	INFO	Marionette enabled
+1671743418176	Marionette	INFO	Listening on port 63785
+Read port: 63785
+1671743418853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilesUivn1\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=4318654343, line 97: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=1943323977, line 97: unreachable code after return statement
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=274472291, line 97: unreachable code after return statement
+1671744121915	geckodriver	INFO	Listening on 127.0.0.1:63941
+1671744125003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilejq5lbX"
+1671744125518	Marionette	INFO	Marionette enabled
+1671744125524	Marionette	INFO	Listening on port 63953
+Read port: 63953
+1671744126109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilejq5lbX\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=7729880753, line 97: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=2910723300, line 97: unreachable code after return statement
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=2459887346, line 97: unreachable code after return statement
+1671744983248	geckodriver	INFO	Listening on 127.0.0.1:64114
+1671744986316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileNtixTH"
+1671744986815	Marionette	INFO	Marionette enabled
+1671744986821	Marionette	INFO	Listening on port 64126
+Read port: 64126
+1671744987340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileNtixTH\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=7716621835, line 97: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=5897176350, line 97: unreachable code after return statement
+1671745178789	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=9010999879, line 97: unreachable code after return statement
+JavaScript error: https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js, line 1: Error: Uncaught (in promise): Error: Unable to find the timeline player referenced by 6
+_getPlayer@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:26755:23
+command@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:26768:24
+process@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:27664:32
+setProperty@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:28396:126
+TD@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:28246:16
+_command@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:28189:16
+destroy@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:28229:14
+animate/<@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:23792:29
+scheduleListenerCallback/</</<@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:28283:16
+scheduleListenerCallback/</<@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:28281:44
+invoke@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:13482
+onInvoke@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:3958:31
+invoke@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:13422
+run@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:8991
+run@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:3983:28
+scheduleListenerCallback/<@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:28280:22
+invoke@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:13482
+onInvoke@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:3958:31
+invoke@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:13422
+run@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:8991
+x/<@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:19808
+invokeTask@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:14100
+onInvokeTask@https://sgame-aviator3.slotwalker.com/main-es2015.18b0000922117deba4c2.js:3951:31
+invokeTask@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:14021
+runTask@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:9606
+y@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:16045
+invokeTask@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:15130
+m@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:27202
+k@https://sgame-aviator3.slotwalker.com/polyfills-es2015.6e59112409e58bea2edf.js:1:27445
+
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=7332313090, line 97: unreachable code after return statement
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=2852585951, line 97: unreachable code after return statement
+1671745830552	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=3857329305, line 97: unreachable code after return statement
+1671745915484	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=2607557169, line 97: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.forra.bet."
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=1708722676, line 97: unreachable code after return statement
+JavaScript warning: https://www.forra.bet/views/sports/js/bet.js?v=9114952658, line 97: unreachable code after return statement

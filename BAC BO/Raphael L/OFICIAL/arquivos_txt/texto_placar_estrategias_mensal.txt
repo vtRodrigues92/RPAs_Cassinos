@@ -1,0 +1,13 @@
+📈 DADOS DA ESTRATÉGIA [NOME_ESTRATEGIA] DO MÊS [MES_ATUAL]
+
+🟢 [TOTAL_WIN] WINS NO TOTAL
+⛔ [TOTAL_LOSS] LOSS (DERROTAS)
+
+⭐ [TOTAL_SEM_GALE] WIN SEM GALE
+🎆 [TOTAL_WIN_GALE] COM GALE
+🥇 [WIN_GALE_1] WIN NO 1º GALE
+🥈 [WIN_GALE_2] WIN NO 2º GALE
+
+🎯 Acertamos [PORCENTAGEM] das vezes
+
+==============================================

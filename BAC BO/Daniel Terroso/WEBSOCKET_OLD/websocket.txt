@@ -1,0 +1,1 @@
+wss://wac.evo-games.com/public/bacbo/player/game/BacBo00000000001/socket?messageFormat=json&instance=632u9-qo2wix3z5rclnkzu-BacBo00000000001&tableConfig=&EVOSESSIONID=qo2wix3z5rclnkzuq3lvnw4hq377tnes2141206a079cff68ddf0ae7bf54f28640898072c226dc6f8&client_version=6.20230309.65135.22518-6c9b2e0e13

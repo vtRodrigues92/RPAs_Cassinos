@@ -1,0 +1,4 @@
+api_id= 9232532
+api_hash= c97f4552890bfbb97977ff3296c78a7e
+phone= +5519974131156
+api_bot= 5590315584:AAFvdXwCsLAwbDwJbSitVcPSgzKQQYO-748

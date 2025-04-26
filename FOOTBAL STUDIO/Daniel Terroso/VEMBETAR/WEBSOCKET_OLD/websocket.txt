@@ -1,0 +1,1 @@
+wss://wac.evo-games.com/public/topcard/player/game/TopCard000000001/socket?messageFormat=json&instance=409uj-qo2wix3z5rclnkzu-nvrpqglt6teqkvaf&tableConfig=nvrpqglt6teqkvaf&EVOSESSIONID=qo2wix3z5rclnkzuq4k3lhvdfhvv5nr76186b2e5267000358b2e836aea0aa5485ab3755a72829611&client_version=6.20230323.70223.23049-6a8fb42f8b

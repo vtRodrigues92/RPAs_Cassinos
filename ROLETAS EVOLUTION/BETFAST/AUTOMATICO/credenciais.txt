@@ -1,0 +1,1 @@
+﻿[{'valor_entrada': '25', 'fatorgale': '3', 'stopwin': '4000', 'stoploss': '4000', 'seqgreen': '10'}]

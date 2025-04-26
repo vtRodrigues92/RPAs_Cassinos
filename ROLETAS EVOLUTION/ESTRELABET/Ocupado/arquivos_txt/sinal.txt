@@ -1,0 +1,15 @@
+
+💰 <b>CONFIRMADA</b>
+⭐️<b>Evolution</b>
+
+🎰 <b>Roleta: [NOME_CASSINO]</b>
+🎲 <b>Estratégia:</b> [ESTRATEGIA]
+💰 <b>Apostar:</b> [APOSTA]
+🚥 <b>[LISTA_RESULTADOS]</b>
+
+🟢 <b>COBRIR ZERO</b>
+
+🔗 <b>LINKS: </b><a href='[SITE_DESKTOP]'>💻 Computador</a><a href='[SITE_MOBILE]' style="font-size: 60px" >📱 Celular</a>
+
+<a href='[SITE_CADASTRO]'>CADASTRE-SE AQUI</a>
+

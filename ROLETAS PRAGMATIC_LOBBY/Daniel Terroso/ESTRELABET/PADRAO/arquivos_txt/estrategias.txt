@@ -1,0 +1,1 @@
+['ausência', '1ª coluna', '2', '2ª/3ª coluna']

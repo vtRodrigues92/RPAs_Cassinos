@@ -1,0 +1,13 @@
+💰 ENTRADA FINALIZADA 💰
+
+Sequência anterior: [LISTA_RESULTADOS]
+
+🎯 Apostar na [APOSTA]
+🎯 Resultado: [RESULTADO]
+
+RED 💔
+Mantenha gestão de banca...
+
+📱 <a href='[LINK_CADASTRO]'>CADASTRE-SE PARA JOGAR</a>
+
+[ESTRATEGIA]

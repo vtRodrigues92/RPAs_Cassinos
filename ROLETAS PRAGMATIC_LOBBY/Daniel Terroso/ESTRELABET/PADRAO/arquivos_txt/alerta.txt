@@ -1,0 +1,11 @@
+🔎 <b>Analisando a mesa</b> 🔍
+⭐️ <b>Pragmatic Play</b>
+
+🎰 <b>Roleta: [NOME_CASSINO]</b>
+🎲 <b>Estratégia: [ESTRATEGIA]</b>
+
+🚥 <b>[LISTA_RESULTADOS]</b>
+
+🔗 <b>LINKS:<a href='[SITE_DESKTOP]' style="font-size: 60px"> 💻 Computador</a> <a href='[SITE_MOBILE]' style="font-size: 60px" >📱 Celular</a></b>
+
+<b><a href='[SITE_CADASTRO]'>CADASTRE-SE AQUI</a></b>

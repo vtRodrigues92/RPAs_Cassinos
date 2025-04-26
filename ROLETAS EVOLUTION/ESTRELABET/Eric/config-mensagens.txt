@@ -1,0 +1,40 @@
+🔎 <b>Analisando a mesa</b> 🔍
+⭐️ <b>[FORNECEDOR]</b>
+
+🎰 <b>Roleta:</b> [NOME_CASSINO]
+🎲 <b>Estratégia:</b> [ESTRATEGIA]
+
+📱 <b>[TIPO_ESTRATEGIA] [ESTRATEGIA]</b>
+🚥 <b>[LISTA_RESULTADOS]</b>
+
+🔗 <b>LINKS:</b> 💻 <a href='[SITE_DESKTOP]' style="font-size: 60px">Computador</a>
+📱 <a href='[SITE_MOBILE]' style="font-size: 60px" >Celular</a>
+
+<a href='[SITE_CADASTRO]'>CADASTRE-SE AQUI</a>
+
+##########################################
+
+
+
+💰 <b>CONFIRMADA</b>
+⭐️<b>[FORNECEDOR]</b>
+
+🎰 <b>Roleta: [NOME_CASSINO]</b>
+🎲 <b>Estratégia:</b> [ESTRATEGIA]
+💰 <b>Apostar:</b> [APOSTA]
+🚥 <b>[LISTA_RESULTADOS]</b>
+
+🟢 <b>COBRIR ZERO</b>
+
+🔗 <b>LINKS:</b> 💻 <a href='[SITE_DESKTOP]' style="font-size:60px">Computador</a>
+📱 <a href='[SITE_MOBILE]' style="font-size:60px">Celular</a>
+
+<a href='[SITE_CADASTRO]'>CADASTRE-SE AQUI</a>
+
+##########################################
+
+	
+
+✅✅✅<b>GREEN!!!</b> [LISTA_RESULTADOS]
+
+LOSS 🔻 [LISTA_RESULTADOS]

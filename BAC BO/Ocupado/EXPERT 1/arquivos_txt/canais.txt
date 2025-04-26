@@ -1,0 +1,23 @@
+****** TOKEN BOT 
+
+token= 6707542793:AAEWMiGcvL3e_3cpEkGwmwqF6JhIzVhbYMo 
+
+****** ID DO USUÁRIO E CANAIS TELEGRAM 
+
+id= [1476864287,893123106]
+canais= {-1002082318531:['https://go.aff.esportiva.bet/8xzourg7']}
+
+
+*******USUÁRIO E SENHA
+
+usuario= ''
+senha= ''
+
+
+
+
+
+
+***** SEMPRE COLOCAR A INFORMAÇÃO APÓS O '=' USANDO UM ESPAÇO. EX: token= sdunu546464664
+***** SE FOR CADASTRAR MAIS DE UM ID, SEGUIR O PADRÃO -- EX: [123456,7899876]
+***** CADASTRO DE CANAIS SEMPRE COM O PREFIXO -100 --- EX: -1001234567890

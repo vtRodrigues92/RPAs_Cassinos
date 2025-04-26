@@ -1,0 +1,1 @@
+﻿[{'valor_entrada_bet1': '2', 'valor_entrada_bet2': '0', 'fatorgale': '1.2', 'stopwin': '500', 'stoploss': '500', 'seqgreen': '20'}]

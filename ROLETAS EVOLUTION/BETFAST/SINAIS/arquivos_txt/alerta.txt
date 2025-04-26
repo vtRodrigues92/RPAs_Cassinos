@@ -1,0 +1,5 @@
+🚨 <b>ANALISANDO </b> 🚨
+🧠 <b>Estratégia: [ESTRATEGIA]</b>
+🎰 <b>Roleta</b>: <a href='[LINK_GAME]'>[NOME_CASSINO]</a>
+
+🚥 Sequência: [LISTA_RESULTADOS]

@@ -1,0 +1,14 @@
+﻿Bot Green  ✅🔥💣 95% de acerto
+
+Estratégia: Vitoria HT/FT/Canto/Handcap/Gols
+⏰ Tempo: [TEMPO_JOGO]
+⚠️ Placar: [PLACAR_TIME1] x [PLACAR_TIME2]
+🔥 Ataques: [AP_TIME1] / [AP_TIME2]
+🥾 Chutes: [CHUTES_TIME1] / [CHUTES_TIME2]
+⛳️ Escanteio: [ESCANTEIO_TIME1] / [ESCANTEIO_TIME2]
+
+🍀 [TIME_REFERENCIA]
+
+[LINK_JOGO]
+
+📉 [TIME1] x [TIME2]

@@ -1,0 +1,40 @@
+🎰 <b>Analisando a mesa</b> 🎰
+
+🔎 <b>Estamos validando uma entrada</b> 🔎
+
+🎲 <b>Estratégia:</b> [ESTRATEGIA]
+
+
+
+
+
+
+##########################################
+
+
+
+
+
+
+⚠️ <b>ENTRADA CONFIRMADA</b> ⚠️
+
+🎰 <b>Roleta: [NOME_CASSINO]</b>
+
+💰 <b>Apostar:</b> [APOSTA]
+🚥 <b>[LISTA_RESULTADOS]</b>
+
+🟢 COBRIR ZERO
+
+
+
+
+
+
+
+##########################################
+
+	
+
+✅✅✅<b>GREEN!!!</b> [RESULTADO][PULA_LINHA]<b>PAGAAAA JOÃO VICTOR</b> 🚀✅
+
+RED 🔻 [LISTA_RESULTADOS]

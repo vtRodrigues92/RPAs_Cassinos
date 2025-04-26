@@ -1,0 +1,3 @@
+Entrada,1.0
+repeticao_entrada,5
+repeticao_numeros,8

@@ -1,0 +1,22 @@
+****** USUÁRIO E SENHA
+
+usuario= victor.o.rodrigues11@gmail.com
+senha= Fordbracom2022
+
+****** TOKEN BOT 
+
+token= 5590315584:AAFvdXwCsLAwbDwJbSitVcPSgzKQQYO-748 
+
+****** ID DO USUÁRIO CANAIS TELEGRAM E STICKER
+
+id= [1476864287,12345678]
+canais= {-1001775325949:['www.linkJogo.com','www.LinkCadastro.com'],-1001857285977:['https://tois.vip/x5ej9k07','https://tois.vip/x5ej9k07'],-1001895746081:['https://www.nbet91.bet/casino/game/1301/false','https://www.nbet91.bet/player-from-agent/agent/19riw']}
+
+
+sticker=CAACAgEAAxkBAAEYWhJjLRmRuis-_URX7J7EyS8E9ehRvwACBQEAAmZPeUeVJPXPvaNuHCkE
+
+
+
+***** SEMPRE COLOCAR A INFORMAÇÃO APÓS O '=' USANDO UM ESPAÇO. EX: usuario= aaaaa | senha= 123456 | token= sdunu546464664
+***** SE FOR CADASTRAR MAIS DE UM ID, SEGUIR O PADRÃO -- EX: [123456,7899876]
+***** CADASTRO DE CANAIS SEMPRE COM O PREFIXO -100 --- EX: -1001234567890

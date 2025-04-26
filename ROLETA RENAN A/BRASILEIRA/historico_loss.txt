@@ -1,0 +1,6 @@
+
+27-05-2023 18:39:47 - ['repetição', 'cor vermelho', '3', 'cor preto']
+27-05-2023 19:27:07 - ['repetição', 'números baixos', '3', 'números altos']
+27-05-2023 19:48:48 - ['repetição', 'cor vermelho', '3', 'cor preto']
+27-05-2023 19:59:30 - ['repetição', 'números altos', '3', 'números baixos']
+11-06-2023 14:00:58 - ['ausência', '2ªduzia', '3', '1º/3ªduzia']

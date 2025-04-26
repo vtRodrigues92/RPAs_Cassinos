@@ -1,0 +1,7 @@
+win,3
+sg,2
+g1,1
+g2,0
+emp,1
+loss,1
+ass,75

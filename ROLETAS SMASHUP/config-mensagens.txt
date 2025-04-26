@@ -1,0 +1,27 @@
+🤖 <b>Robô</b> 🤖
+🎰 <b>Roleta </b> 🎰: [NOME_CASSINO]
+💠 <b>Estratégia </b>💠: [ESTRATEGIA]
+
+
+##########################################
+
+
+
+🔔 <b>ENTRADA CONFIRMADA</b> 🔔
+🎰 <b>Roleta</b> 🎰: [NOME_CASSINO]
+💠 <b>Estratégia</b> 💠: [ESTRATEGIA]
+✅ <b>Entrar no :</b> [APOSTA]
+
+
+##########################################
+
+	
+
+✅✅✅<b>GREEN!!!</b> [RESULTADO]
+
+❌ RED [LISTA_RESULTADOS]
+
+
+
+
+qntd_Gale= 2

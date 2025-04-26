@@ -1,0 +1,5 @@
+Entrada,5.0
+Stop Win,200.0
+Stop Loss,10000.0
+Martingale,1
+Fator Gale,3.0

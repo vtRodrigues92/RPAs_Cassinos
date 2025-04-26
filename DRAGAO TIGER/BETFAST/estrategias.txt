@@ -1,0 +1,1 @@
+['Quebra na repetição de vermelho','Dragon','Dragon','Dragon','Tiger'],['Quebra  na repetição de amarelo','Tiger','Tiger','Tiger','Dragon']

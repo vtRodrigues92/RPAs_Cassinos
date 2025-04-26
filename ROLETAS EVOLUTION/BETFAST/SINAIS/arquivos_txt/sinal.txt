@@ -1,0 +1,14 @@
+💰 <b>ENTRADA CONFIRMADA</b> 💰
+
+🎮 <a href='[SITE_CADASTRO]'>Clique aqui para se cadastrar</a>
+🎰 <b>Roleta</b>: <a href='[LINK_GAME]'>[NOME_CASSINO]</a>
+
+🎲 <b>Estratégia: [ESTRATEGIA]</b>
+
+🎯 Jogar na [APOSTA]
+🔁 Fazer até 2 Proteções - Cobrir o zero
+🚥 Sequência: [ULTIMOS_RESULTADOS]
+
+💰 <b>Entrar após [LISTA_RESULTADOS]</b>
+⚠️ FUNCIONA APENAS NA PLATAFORMA ACIMA ⚠️
+

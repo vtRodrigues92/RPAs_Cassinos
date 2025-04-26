@@ -1,0 +1,21 @@
+****** USUÁRIO E SENHA
+
+usuario= Pedro.cletoooo@gmail.com
+senha= pedro123
+
+****** TOKEN BOT 
+
+token= 6267316619:AAF1xQHa_ZAM_HXKdP7N2JHuriby0fyOzpk 
+
+****** ID DO USUÁRIO CANAIS TELEGRAM E STICKER
+
+id= [1476864287]
+canais= {-1001710035667:['www.cadstro.com']}
+
+
+
+
+
+***** SEMPRE COLOCAR A INFORMAÇÃO APÓS O '=' USANDO UM ESPAÇO. EX: usuario= aaaaa | senha= 123456 | token= sdunu546464664
+***** SE FOR CADASTRAR MAIS DE UM ID, SEGUIR O PADRÃO -- EX: [123456,7899876]
+***** CADASTRO DE CANAIS SEMPRE COM O PREFIXO -100 --- EX: -1001234567890

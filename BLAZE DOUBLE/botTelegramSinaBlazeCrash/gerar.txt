@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "D:\Projetos\Python\Win_roullet\botTelegramSinaBlazeCrash;botTelegramSinaBlazeCrash" main.py

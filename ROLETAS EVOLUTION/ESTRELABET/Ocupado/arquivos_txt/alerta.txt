@@ -1,0 +1,12 @@
+🔎 <b>Analisando a mesa</b> 🔍
+⭐️ <b>Evolution</b>
+
+🎰 <b>Roleta:</b> [NOME_CASSINO]
+🎲 <b>Estratégia:</b> [ESTRATEGIA]
+
+📱 <b>[ESTRATEGIA]</b>
+🚥 <b>[LISTA_RESULTADOS]</b>
+
+🔗 <b>LINKS: </b><a href='[SITE_DESKTOP]'>💻 Computador</a><a href='[SITE_MOBILE]' style="font-size: 60px" >📱 Celular</a>
+
+<a href='[SITE_CADASTRO]'>CADASTRE-SE AQUI</a>

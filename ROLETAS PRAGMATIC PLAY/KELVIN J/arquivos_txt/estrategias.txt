@@ -1,0 +1,2 @@
+['repetição', 'cor vermelho', '3', 'cor preto']
+['repetição', 'cor preto', '3', 'cor vermelho']

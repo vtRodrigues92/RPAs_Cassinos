@@ -1,0 +1,202 @@
+<html>
+<head>
+    <title>Catalogador Aviator-Blaze</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <style>
+        .vela {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 150%;
+            font-weight: bold;
+            color: black;
+        }
+        .hora {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: small;
+            font-weight: lighter;
+            color: black;
+        }
+        .contador {
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: medium;
+            color: rgb(0, 0, 140);
+            padding-left: 10px;
+        }
+        .resumo {
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-weight: normal;
+            color: white;
+            padding: 8px;
+            box-sizing: border-box;
+            border-top-right-radius: 50%;
+            border-bottom-right-radius: 50%;
+            margin: 5px;
+            text-align: center;
+            background-color: rgb(0, 0, 0);
+        }
+        /* Estilo para o botão quando está ativado */
+        .btn-ativado {
+            background-color: #4CAF50;
+            color: white;
+        }
+        /* Estilo para o botão quando está desativado */
+        .btn-desativado {
+            background-color: #f44336;
+            color: white;
+        }
+        .main-container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .sub-containerUP {
+            padding: 8px;
+            box-sizing: border-box;
+        }
+        .sub-containerUP100 {
+            font-weight: bold;
+            padding: 8px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            margin: 5px;
+            text-align: center;
+            background-color: rgb(72, 88, 255);
+        }
+        .sub-containerUP50 {
+            font-weight: bold;
+            padding: 8px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            margin: 5px;
+            text-align: center;
+            background-color: rgb(255, 145, 0);
+        }
+        .sub-containerUP20 {
+            font-weight: bold;
+            padding: 8px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            margin: 5px;
+            text-align: center;
+            background-color: rgb(255, 255, 0);
+        }
+        .sub-containerUP10 {
+            font-weight: bold;
+            padding: 8px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            margin: 5px;
+            text-align: center;
+            background-color: rgb(255, 0, 212);
+        }
+        .sub-containerUP5 {
+            font-weight: bold;
+            padding: 8px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            margin: 5px;
+            text-align: center;
+            background-color: rgb(0, 197, 0);
+        }
+        .sub-containerUP2 {
+            font-weight: bold;
+            padding: 8px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            margin: 5px;
+            text-align: center;
+            background-color: rgb(0, 208, 255);
+        }
+        .sub-containerUP1-5 {
+            font-weight: bold;
+            padding: 8px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            margin: 5px;
+            text-align: center;
+            background-color: rgb(195, 0, 0);
+        }
+        .sub-containerUP0 {
+            font-weight: bold;
+            padding: 8px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            margin: 5px;
+            text-align: center;
+            background-color: rgb(200, 200, 200);
+        }
+    </style>    
+</head>
+<body>
+    <h1 style="font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Catalogador Aviator-Blaze</h1><h3 style="font-weight: lighter; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: small;"/>
+    <div id="container-button-contador" class="main-container" style="padding: 6px;"><div id="button"><button id="btnAutoRefresh" onclick="toggleAutoReload()">Ativar Auto-Refresh</button></div><div id="contador" class="contador">108 velas capturadas de 10/09 - 21:30 a 10/09 - 22:29</div></div>
+    <script>
+        let autoRefreshAtivado = true;
+        function autoReloadPage() {
+            location.reload();
+        }
+        function toggleAutoReload() {
+            autoRefreshAtivado = !autoRefreshAtivado;
+            atualizarEstadoBotao();
+            if (autoRefreshAtivado) {
+                iniciarAutoRefresh();
+            } else {
+                cancelarAutoRefresh();
+            }
+        }
+        // Defina o intervalo de tempo em milissegundos (1000 ms = 1 segundo)
+        const intervaloDeAtualizacao = 5000;
+        let autoRefreshIntervalID;
+        function iniciarAutoRefresh() {
+            autoRefreshIntervalID = setInterval(autoReloadPage, intervaloDeAtualizacao);
+        }
+        function cancelarAutoRefresh() {
+            clearInterval(autoRefreshIntervalID);
+        }
+        function atualizarEstadoBotao() {
+            const btnAutoRefresh = document.getElementById('btnAutoRefresh');
+            if (autoRefreshAtivado) {
+                btnAutoRefresh.textContent = 'Auto-Refresh Ativado';
+                btnAutoRefresh.classList.remove('btn-desativado');
+                btnAutoRefresh.classList.add('btn-ativado');
+            } else {
+                btnAutoRefresh.textContent = 'Auto-Refresh Desativado';
+                btnAutoRefresh.classList.remove('btn-ativado');
+                btnAutoRefresh.classList.add('btn-desativado');
+            }
+        }
+        iniciarAutoRefresh();
+        atualizarEstadoBotao();
+    </script>
+    <div id="contagem" class="main-container">
+        <div class="resumo">Contagem: </div>
+        <div id="ctgUP0" class="sub-containerUP0">34</div>
+        <div id="ctgUP1-5" class="sub-containerUP1-5">19</div>
+        <div id="ctgUP2" class="sub-containerUP2">32</div>
+        <div id="ctgUP5" class="sub-containerUP5">15</div>
+        <div id="ctgUP10" class="sub-containerUP10">4</div>
+        <div id="ctgUP20" class="sub-containerUP20">3</div> 
+        <div id="ctgUP50" class="sub-containerUP50">1</div> 
+        <div id="ctgUP100" class="sub-containerUP100">0</div> 
+    </div>
+    <div id="maximas" class="main-container">
+        <div class="resumo">Maximas: </div>
+        <div id="maxUP0" class="sub-containerUP0">5</div>
+        <div id="maxUP1-5" class="sub-containerUP1-5">2</div>
+        <div id="maxUP2" class="sub-containerUP2">4</div>
+        <div id="maxUP5" class="sub-containerUP5">2</div>
+        <div id="maxUP10" class="sub-containerUP10">2</div>
+        <div id="maxUP20" class="sub-containerUP20">0</div> 
+        <div id="maxUP50" class="sub-containerUP50">0</div> 
+        <div id="maxUP100" class="sub-containerUP100">0</div> 
+    </div>
+    <div id="intervalo" class="main-container">
+        <div class="resumo">Intervalo: </div>
+        <div id="sub-containerUP0" class="sub-containerUP0">10</div>
+        <div id="sub-containerUP1-5" class="sub-containerUP1-5">16</div>
+        <div id="sub-containerUP2" class="sub-containerUP2">14</div>
+        <div id="sub-containerUP5" class="sub-containerUP5">17</div>
+        <div id="sub-containerUP10" class="sub-containerUP10">69</div>
+        <div id="sub-containerUP20" class="sub-containerUP20">33</div> 
+        <div id="sub-containerUP50" class="sub-containerUP50">-</div> 
+        <div id="sub-containerUP100" class="sub-containerUP100">-</div> 
+    </div>
+    <div id="results" class="main-container"><div class="sub-containerUP2"><div class="vela">2.35</div><div class="hora">22:29</div></div><div class="sub-containerUP1-5"><div class="vela">1.7</div><div class="hora">22:29</div></div><div class="sub-containerUP5"><div class="vela">7.18</div><div class="hora">22:29</div></div><div class="sub-containerUP0"><div class="vela">1.13</div><div class="hora">22:28</div></div><div class="sub-containerUP2"><div class="vela">4.38</div><div class="hora">22:28</div></div><div class="sub-containerUP2"><div class="vela">2.94</div><div class="hora">22:27</div></div><div class="sub-containerUP0"><div class="vela">1.18</div><div class="hora">22:27</div></div><div class="sub-containerUP1-5"><div class="vela">1.82</div><div class="hora">22:26</div></div><div class="sub-containerUP0"><div class="vela">1.12</div><div class="hora">22:26</div></div><div class="sub-containerUP0"><div class="vela">1.18</div><div class="hora">22:26</div></div><div class="sub-containerUP10"><div class="vela">10.29</div><div class="hora">22:25</div></div><div class="sub-containerUP5"><div class="vela">5.35</div><div class="hora">22:25</div></div><div class="sub-containerUP0"><div class="vela">1.19</div><div class="hora">22:24</div></div><div class="sub-containerUP2"><div class="vela">2.52</div><div class="hora">22:24</div></div><div class="sub-containerUP5"><div class="vela">8.68</div><div class="hora">22:23</div></div><div class="sub-containerUP1-5"><div class="vela">1.5</div><div class="hora">22:23</div></div><div class="sub-containerUP0"><div class="vela">1.19</div><div class="hora">22:22</div></div><div class="sub-containerUP5"><div class="vela">6.08</div><div class="hora">22:22</div></div><div class="sub-containerUP2"><div class="vela">3.33</div><div class="hora">22:22</div></div><div class="sub-containerUP0"><div class="vela">1.39</div><div class="hora">22:22</div></div><div class="sub-containerUP0"><div class="vela">1.19</div><div class="hora">22:21</div></div><div class="sub-containerUP20"><div class="vela">21.15</div><div class="hora">22:21</div></div><div class="sub-containerUP0"><div class="vela">1.02</div><div class="hora">22:20</div></div><div class="sub-containerUP5"><div class="vela">9.7</div><div class="hora">22:20</div></div><div class="sub-containerUP1-5"><div class="vela">1.77</div><div class="hora">22:19</div></div><div class="sub-containerUP1-5"><div class="vela">1.58</div><div class="hora">22:18</div></div><div class="sub-containerUP2"><div class="vela">2.01</div><div class="hora">22:18</div></div><div class="sub-containerUP0"><div class="vela">1.04</div><div class="hora">22:18</div></div><div class="sub-containerUP2"><div class="vela">3.89</div><div class="hora">22:18</div></div><div class="sub-containerUP0"><div class="vela">1.22</div><div class="hora">22:17</div></div><div class="sub-containerUP2"><div class="vela">2.84</div><div class="hora">22:17</div></div><div class="sub-containerUP1-5"><div class="vela">1.53</div><div class="hora">22:16</div></div><div class="sub-containerUP2"><div class="vela">2.42</div><div class="hora">22:15</div></div><div class="sub-containerUP5"><div class="vela">5.68</div><div class="hora">22:15</div></div><div class="sub-containerUP2"><div class="vela">2.49</div><div class="hora">22:14</div></div><div class="sub-containerUP2"><div class="vela">2.66</div><div class="hora">22:14</div></div><div class="sub-containerUP2"><div class="vela">2.27</div><div class="hora">22:14</div></div><div class="sub-containerUP10"><div class="vela">10.11</div><div class="hora">22:13</div></div><div class="sub-containerUP10"><div class="vela">10.45</div><div class="hora">22:12</div></div><div class="sub-containerUP0"><div class="vela">1.07</div><div class="hora">22:11</div></div><div class="sub-containerUP5"><div class="vela">8.75</div><div class="hora">22:11</div></div><div class="sub-containerUP2"><div class="vela">2.31</div><div class="hora">22:11</div></div><div class="sub-containerUP0"><div class="vela">1.3</div><div class="hora">22:10</div></div><div class="sub-containerUP5"><div class="vela">7.23</div><div class="hora">22:10</div></div><div class="sub-containerUP0"><div class="vela">1.07</div><div class="hora">22:09</div></div><div class="sub-containerUP2"><div class="vela">4.95</div><div class="hora">22:09</div></div><div class="sub-containerUP0"><div class="vela">1.36</div><div class="hora">22:08</div></div><div class="sub-containerUP1-5"><div class="vela">1.88</div><div class="hora">22:08</div></div><div class="sub-containerUP0"><div class="vela">1.35</div><div class="hora">22:08</div></div><div class="sub-containerUP0"><div class="vela">1.3</div><div class="hora">22:07</div></div><div class="sub-containerUP50"><div class="vela">78.82</div><div class="hora">22:07</div></div><div class="sub-containerUP1-5"><div class="vela">1.53</div><div class="hora">22:06</div></div><div class="sub-containerUP0"><div class="vela">1.49</div><div class="hora">22:05</div></div><div class="sub-containerUP2"><div class="vela">3.78</div><div class="hora">22:05</div></div><div class="sub-containerUP20"><div class="vela">29.08</div><div class="hora">22:05</div></div><div class="sub-containerUP5"><div class="vela">6.32</div><div class="hora">22:04</div></div><div class="sub-containerUP2"><div class="vela">4.61</div><div class="hora">22:03</div></div><div class="sub-containerUP0"><div class="vela">1.02</div><div class="hora">22:03</div></div><div class="sub-containerUP2"><div class="vela">2.89</div><div class="hora">22:03</div></div><div class="sub-containerUP1-5"><div class="vela">1.66</div><div class="hora">22:01</div></div><div class="sub-containerUP2"><div class="vela">4.45</div><div class="hora">22:01</div></div><div class="sub-containerUP5"><div class="vela">9.54</div><div class="hora">22:00</div></div><div class="sub-containerUP5"><div class="vela">7.12</div><div class="hora">21:59</div></div><div class="sub-containerUP0"><div class="vela">1.34</div><div class="hora">21:59</div></div><div class="sub-containerUP0"><div class="vela">1.01</div><div class="hora">21:59</div></div><div class="sub-containerUP0"><div class="vela">1.3</div><div class="hora">21:58</div></div><div class="sub-containerUP0"><div class="vela">1.06</div><div class="hora">21:58</div></div><div class="sub-containerUP0"><div class="vela">1.34</div><div class="hora">21:58</div></div><div class="sub-containerUP1-5"><div class="vela">1.82</div><div class="hora">21:58</div></div><div class="sub-containerUP0"><div class="vela">1.01</div><div class="hora">21:56</div></div><div class="sub-containerUP5"><div class="vela">6.59</div><div class="hora">21:56</div></div><div class="sub-containerUP1-5"><div class="vela">1.63</div><div class="hora">21:55</div></div><div class="sub-containerUP0"><div class="vela">1.08</div><div class="hora">21:55</div></div><div class="sub-containerUP1-5"><div class="vela">1.84</div><div class="hora">21:55</div></div><div class="sub-containerUP2"><div class="vela">2.47</div><div class="hora">21:54</div></div><div class="sub-containerUP2"><div class="vela">3.65</div><div class="hora">21:54</div></div><div class="sub-containerUP1-5"><div class="vela">1.79</div><div class="hora">21:54</div></div><div class="sub-containerUP2"><div class="vela">2.74</div><div class="hora">21:53</div></div><div class="sub-containerUP2"><div class="vela">3.4</div><div class="hora">21:53</div></div><div class="sub-containerUP0"><div class="vela">1.38</div><div class="hora">21:52</div></div><div class="sub-containerUP2"><div class="vela">3.12</div><div class="hora">21:52</div></div><div class="sub-containerUP1-5"><div class="vela">1.69</div><div class="hora">21:52</div></div><div class="sub-containerUP5"><div class="vela">7.46</div><div class="hora">21:51</div></div><div class="sub-containerUP2"><div class="vela">2.64</div><div class="hora">21:51</div></div><div class="sub-containerUP1-5"><div class="vela">1.72</div><div class="hora">21:49</div></div><div class="sub-containerUP0"><div class="vela">1.15</div><div class="hora">21:49</div></div><div class="sub-containerUP5"><div class="vela">5.38</div><div class="hora">21:49</div></div><div class="sub-containerUP20"><div class="vela">24.62</div><div class="hora">21:48</div></div><div class="sub-containerUP2"><div class="vela">3.4</div><div class="hora">21:47</div></div><div class="sub-containerUP2"><div class="vela">3.4</div><div class="hora">21:47</div></div><div class="sub-containerUP2"><div class="vela">3.25</div><div class="hora">21:46</div></div><div class="sub-containerUP2"><div class="vela">2.72</div><div class="hora">21:46</div></div><div class="sub-containerUP1-5"><div class="vela">1.54</div><div class="hora">21:46</div></div><div class="sub-containerUP2"><div class="vela">4.22</div><div class="hora">21:36</div></div><div class="sub-containerUP0"><div class="vela">1.24</div><div class="hora">21:35</div></div><div class="sub-containerUP0"><div class="vela">1.26</div><div class="hora">21:35</div></div><div class="sub-containerUP2"><div class="vela">4.23</div><div class="hora">21:35</div></div><div class="sub-containerUP0"><div class="vela">1.0</div><div class="hora">21:34</div></div><div class="sub-containerUP1-5"><div class="vela">1.97</div><div class="hora">21:34</div></div><div class="sub-containerUP0"><div class="vela">1.1</div><div class="hora">21:33</div></div><div class="sub-containerUP2"><div class="vela">2.18</div><div class="hora">21:33</div></div><div class="sub-containerUP1-5"><div class="vela">1.64</div><div class="hora">21:33</div></div><div class="sub-containerUP1-5"><div class="vela">1.96</div><div class="hora">21:33</div></div><div class="sub-containerUP5"><div class="vela">6.14</div><div class="hora">21:32</div></div><div class="sub-containerUP0"><div class="vela">1.08</div><div class="hora">21:32</div></div><div class="sub-containerUP0"><div class="vela">1.24</div><div class="hora">21:31</div></div><div class="sub-containerUP2"><div class="vela">3.33</div><div class="hora">21:31</div></div><div class="sub-containerUP10"><div class="vela">18.43</div><div class="hora">21:31</div></div></div></body></html>

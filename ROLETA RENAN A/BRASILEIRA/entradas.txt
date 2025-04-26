@@ -1,0 +1,6 @@
+Entrada,1.0
+Stop Win,10.0
+Stop Loss,20.0
+Martingale,2.0
+Fator Gale,2.0
+Fezinha no 0,NAO
